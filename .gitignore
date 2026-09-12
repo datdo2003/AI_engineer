@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+__pycache__/
+**/__pycache__/
+*.pyc
+.env
+**/.env
+session_31/config.py
